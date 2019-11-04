@@ -1,0 +1,63 @@
+body{
+  
+}
+div {
+  position:relative;
+}
+#quote-box {
+  overflow: ; /* Empêche le dépassement!*/
+  margin: 0 auto;
+  margin-top:200px;
+  padding:30px;
+  width:500px;
+  
+}
+.well {
+  background-color: #e1e1d0;
+  border-radius:5px;
+}
+#text {
+  text-align:center;
+  font-size:30px;
+}
+#author {
+  font-style:italic;
+  font-size:20px;
+  text-align:right;
+  margin-right:25px;
+  margin-top:20px;
+}
+.row {
+  margin-top:50px;
+  
+}
+#tweet-quote {
+  font-size:20px;
+  color:white;
+  margin-left:5px;
+  margin-top:0px;
+  background-color:;
+}
+
+#tumblr-quote {
+  font-size:20px;
+  color:white;
+  margin-left:5px;
+  margin-top:0px;
+}
+button{
+  
+}
+#new-quote {
+  margin-left:170px;
+  font-size:20px;
+  color:white;
+}
+#footer {
+  font-style:italic;
+  font-size:25px;
+  color:white;
+  text-align:center;
+  margin:0 auto;
+  width:200px;
+}
